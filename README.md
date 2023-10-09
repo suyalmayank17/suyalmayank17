@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **suyalmayank17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CTs65GBR0l-PRjlZn0CcfcjBL3Ku--8j/view?usp=sharing]
-- (https://drive.google.com/file/d/1c87_VeavX07nbcQ9X_0wcWh-G1RkDYrN/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1c87_VeavX07nbcQ9X_0wcWh-G1RkDYrN/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

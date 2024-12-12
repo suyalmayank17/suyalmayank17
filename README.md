@@ -1,81 +1,57 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+# 👋 Hi, I'm Mayank Suyal!
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+### About Me
 
-###
+👨‍💻 I am a passionate **Data Science and Analytics enthusiast** with a B.Tech in Computer Science (specializing in Data Science). My expertise spans data analytics, Python programming, and dashboard development using tools like Power BI and Excel.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=suyalmayank17.suyalmayank17&"  />
-</div>
+🔭 I am currently honing my skills in **dashboard creation** and exploring opportunities to grow as a **Data Analyst**.
 
-###
+💡 My journey includes tackling real-world challenges through projects involving **web scraping**, **data visualization**, and **automation**.
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+### 🔧 Technical Skills
 
-<h3 align="left">👩‍💻  About Me</h3>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-###
+---
 
-<p align="left">I'm Mayank Suyal from India<br><br>- 🔭 I’m studying Computer science and Engineering<br>- 📚 I'm currently learning Web Scraping using python<br>- ⚡ In my free time I watch sci-fi movies and series</p>
+### 📚 Featured Projects
 
-###
+- **[Web Scraping Python](https://github.com/suyalmayank17/Web_Scraping_Python)**: Extracted data from e-commerce websites and explored automation using Selenium.
 
-<h3 align="left">🛠 Language and tools</h3>
+- **[Data Analytics Projects](https://github.com/suyalmayank17/Data_Analytics_Projects)**: Dashboards for retail sales and store analytics using Power BI and Excel.
 
-###
+- **[OIBSIP](https://github.com/suyalmayank17/OIBSIP)**: Completed various Data Science internship tasks provided by Oasis Infobyte.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+---
 
-###
+### 📊 GitHub Stats
 
-<h3 align="left">🔥   My Stats :</h3>
+![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suyalmayank17&show_icons=true&theme=radical)
 
-###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suyalmayank17&layout=compact&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyalmayank17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=suyalmayank17&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+### 🤝 Let's Connect
 
-<img src="https://raw.githubusercontent.com/suyalmayank17/suyalmayank17/output/snake.svg" alt="Snake animation" />
+- **[LinkedIn](https://linkedin.com/in/suyalmayank)**
 
-###
+---
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/memetemplate/394506088/Uncanny-Pingu"  />
-</div>
+### ⚡ Fun Fact
 
-###
+💡 Did you know? I love to explore new tools and technologies that make data analysis more insightful and efficient!
+
+---
+
+### 🎉 Randomized Quote
+
+> _"The best way to predict the future is to invent it."_ - Refresh this page for a new quote!
